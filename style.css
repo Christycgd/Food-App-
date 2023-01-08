@@ -1,0 +1,62 @@
+ 
+body {
+    margin: 0;
+    background-color: beige;
+}
+    h1{margin: 0;
+    padding-top: 5px;
+    color:  rgb(169, 8, 131);}
+
+
+
+    li{
+        font-style: normal;
+        color: crimson;
+    }
+
+    .Shawarma, {
+
+        color: darkblue;
+    }
+    
+   
+    img{
+        margin: auto;
+        width: 500px;
+        height: 300px;
+        display: block;
+    }
+
+    p{
+        color: rgb(231, 28, 28);
+        text-align: center;
+        
+    }
+
+    .Index{
+        margin: 5px;
+        color: darkslategrey;
+        background-color: rgb(228, 184, 208);      
+        overflow: hidden;
+        padding: 20px ;
+    }
+
+
+    
+
+    .Index a{
+        float: left;
+        color: #269dcc;
+        text-align: center;
+        text-decoration: none;
+        font-size: 17px;
+        padding: 5px;
+
+    }
+
+    .Index a:hover {background-color: rgb(197, 217, 249);
+        color: darkkhaki;
+        
+    }
+
+ 
